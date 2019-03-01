@@ -1,0 +1,11 @@
+body { background: bisque; color: black; margin-left: 2.0em; margin-right: 2.0em; }
+h1 { background: beige; color: brown; font-size: 2.0em; border-radius: 6px; padding-left: 4em; }
+h2 { color: firebrick; line-height: 0em; }
+h4 {font-size: 2em; color: brown; background: beige; }
+strong { font-size: 1.1em; font-style: italic; }
+p { line-height: 1.7em; }
+em {font-style: inherit; }
+a:hover { color: lightcoral; }
+a:link {color: blue; }
+a:visited { color: violet; }
+p.hage img { box-shadow: 3px 4px 4px; }
